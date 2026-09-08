@@ -1,4 +1,4 @@
 interface:
-  display_name: "Byr Daily Digest"
-  short_description: "Create source-linked BYR forum digests"
-  default_prompt: "Review the authorized BYR boards for the requested period and create a concise digest that separates discussion from analysis."
+  display_name: "北邮人论坛总结"
+  short_description: "整理北邮人论坛并保留原帖链接"
+  default_prompt: "使用 $bupt-byr-forum-summary 整理指定时间和版面的北邮人论坛内容，保留原帖链接，并区分讨论与分析。"

@@ -1,23 +1,25 @@
-# BYR daily digest
+# 北邮人论坛每日总结
 
-- Coverage window:
-- Boards checked:
-- Collection status:
+中文 | [English](digest-template.en.md)
 
-## Top discussions
+- 覆盖时间：
+- 检查版面：
+- 采集状态：
 
-For each item include:
+## 热门讨论
 
-- Linked title
-- Why it matters
-- `Discussion`: the main views and disagreements visible in the thread
-- `Analysis`: implications or useful context
-- Activity time and reply count
+每项包含：
 
-## Practical information
+- 带原帖链接的标题
+- 值得关注的原因
+- `讨论`：主题中出现的主要观点与分歧
+- `分析`：可能影响或有用背景
+- 活跃时间与回复数
 
-## Campus and community signals
+## 实用信息
 
-## Worth watching
+## 校园与社区动态
 
-## Coverage limitations
+## 值得继续关注
+
+## 覆盖范围限制
