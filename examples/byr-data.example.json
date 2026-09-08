@@ -1,0 +1,36 @@
+{
+  "谈天说地": [
+    {
+      "board": "谈天说地",
+      "title": "示例：校园服务讨论",
+      "link": "https://bbs.byr.cn/article/Talking/example",
+      "replyCount": 18,
+      "lastUpdateRaw": "09-08 07:30:00",
+      "lastUpdateIso": "2026-09-07T23:30:00.000Z",
+      "opText": "这是经过匿名化处理的示例主楼内容，用于演示报告生成。",
+      "highlightedReplies": [
+        {
+          "text": "这是示例回复，不对应真实论坛用户或帖子。",
+          "likes": 12,
+          "dislikes": 1
+        }
+      ]
+    }
+  ],
+  "求职就业": [
+    {
+      "board": "求职就业",
+      "title": "示例：实习经验交流",
+      "link": "https://bbs.byr.cn/article/Job/example",
+      "replyCount": 8,
+      "lastUpdateRaw": "09-08 06:10:00",
+      "lastUpdateIso": "2026-09-07T22:10:00.000Z",
+      "opText": "匿名示例内容。"
+    }
+  ],
+  "_meta": {
+    "reportDate": "2026-09-07",
+    "windowLabel": "2026-09-07 08:00 ~ 2026-09-08 08:00",
+    "generatedAt": "2026-09-08T00:10:00.000Z"
+  }
+}

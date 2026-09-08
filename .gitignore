@@ -2,3 +2,8 @@ __pycache__/
 *.py[cod]
 .DS_Store
 .env
+node_modules/
+.byr-cookie
+byr-data.json
+byr-summary.md
+validation.json

@@ -1,0 +1,12 @@
+{
+  "name": "bupt-byr-forum-summary-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Runtime dependencies for the BYR forum collector",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.19.0",
+    "cheerio": "^1.2.0",
+    "iconv-lite": "^0.7.3"
+  }
+}
