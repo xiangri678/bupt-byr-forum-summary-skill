@@ -1,0 +1,4 @@
+interface:
+  display_name: "Byr Daily Digest"
+  short_description: "Create source-linked BYR forum digests"
+  default_prompt: "Review the authorized BYR boards for the requested period and create a concise digest that separates discussion from analysis."
